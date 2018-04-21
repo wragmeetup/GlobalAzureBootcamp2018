@@ -17,3 +17,5 @@ Please visit our [meetup](https://www.meetup.com/Waterloo-Region-Azure-Group-Mee
 * 02 – Sharon Bennett: [Twitter](https://twitter.com/bennettbusiness) | [Blog](https://gyfb.ca/)
 * 03 – Roy Kim: [Twitter](https://twitter.com/RoyKimYYZ) | [Blog](https://roykim.ca/)
 * 04 – Rob Prouse: [Twitter](https://twitter.com/rprouse) | [Blog](http://www.alteridem.net/) | [GitHub](https://github.com/rprouse) 
+* 05 – David Christensen & Zach Koncir: [Website](https://www.sourcedgroup.com/)
+* 06 – Callon Campbell: [Twitter](https://twitter.com/flying_maverick) | [Blog](https://theflyingmaverick.com/)
