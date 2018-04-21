@@ -13,5 +13,7 @@ Please visit our [meetup](https://www.meetup.com/Waterloo-Region-Azure-Group-Mee
 
 ## Our speakers for Global Azure Bootcamp 2018 – Waterloo Region
 
-* 01 – Ken Cenerelli: [Twitter](https://twitter.com/kencenerelli) | [GitHub](https://github.com/kencenerelli)
-* 02 – xxxxxxx: [Twitter](https://twitter.com/GuyBarrette) | [Blog](http://guybarrette.me)
+* 01 – Ken Cenerelli: [Twitter](https://twitter.com/kencenerelli) | [Blog](https://kencenerelli.wordpress.com/) | [GitHub](https://github.com/kencenerelli) 
+* 02 – Sharon Bennett: [Twitter](https://twitter.com/bennettbusiness) | [Blog](https://gyfb.ca/)
+* 03 – Roy Kim: [Twitter](https://twitter.com/RoyKimYYZ) | [Blog](https://roykim.ca/)
+* 04 – Rob Prouse: [Twitter](https://twitter.com/rprouse) | [Blog](http://www.alteridem.net/) | [GitHub](https://github.com/rprouse) 
