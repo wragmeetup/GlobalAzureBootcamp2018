@@ -11,7 +11,7 @@ You will find included in this repository all the materials shared during the bo
 This event is hosted by [Waterloo Region Azure Group Meetup](https://www.meetup.com/Waterloo-Region-Azure-Group-Meetup/). 
 Please visit our [meetup](https://www.meetup.com/Waterloo-Region-Azure-Group-Meetup/) page and find out more about us.
 
-## Our speakers for the Global Azure Bootcamp 2018
+## Our speakers for Global Azure Bootcamp 2018
 
-* Ken Cenerelli – [Twitter](https://twitter.com/kencenerelli) | [GitHub](https://github.com/kencenerelli)
+* 01 – Ken Cenerelli – [Twitter](https://twitter.com/kencenerelli) | [GitHub](https://github.com/kencenerelli)
 * xxxxxxx – [Twitter](https://twitter.com/GuyBarrette) | [Blog](http://guybarrette.me)
