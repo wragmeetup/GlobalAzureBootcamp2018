@@ -13,5 +13,5 @@ Please visit our [meetup](https://www.meetup.com/Waterloo-Region-Azure-Group-Mee
 
 ## Our speakers for Global Azure Bootcamp 2018
 
-* 01 – Ken Cenerelli – [Twitter](https://twitter.com/kencenerelli) | [GitHub](https://github.com/kencenerelli)
-* xxxxxxx – [Twitter](https://twitter.com/GuyBarrette) | [Blog](http://guybarrette.me)
+* 01 – Ken Cenerelli: [Twitter](https://twitter.com/kencenerelli) | [GitHub](https://github.com/kencenerelli)
+* 02 – xxxxxxx: [Twitter](https://twitter.com/GuyBarrette) | [Blog](http://guybarrette.me)
